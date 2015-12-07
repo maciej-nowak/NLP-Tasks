@@ -124,5 +124,50 @@
 		"nadrzednik": ["niem", "niami", "ń"],
 		"miejscownik": ["niu", "niach", "ń"],
 		"wolacz": ["niu", "niowie", "ń"]	
+	},
+	{
+		"mianownik": ["ła", "łowie", "ła"],
+		"dopelniacz": ["ły", "łów", "ły"],
+		"celownik": ["le", "łom", "le"],
+		"biernik": ["łę", "łów", "łę"],
+		"nadrzednik": ["łą", "łami", "łą"],
+		"miejscownik": ["le", "łach", "le"],
+		"wolacz": ["ło", "łowie", "ło"]	
+	},
+	{
+		"mianownik": ["ec", "cowie", "ec"],
+		"dopelniacz": ["ca", "ców", "ec"],
+		"celownik": ["cowi", "com", "ec"],
+		"biernik": ["ca", "ców", "ec"],
+		"nadrzednik": ["cem", "cami", "ec"],
+		"miejscownik": ["cu", "cach", "ec"],
+		"wolacz": ["cu", "cowie", "ec"]	
+	},
+	{
+		"mianownik": ["a", "owie", "a"],
+		"dopelniacz": ["y", "ów", "y"],
+		"celownik": ["zie", "om", "zie"],
+		"biernik": ["ę", "ów", "ę"],
+		"nadrzednik": ["ą", "ami", "ą"],
+		"miejscownik": ["zie", "ach", "zie"],
+		"wolacz": ["o", "owie", "o"]	
+	},
+	{
+		"mianownik": ["ń", "niowie", "ń"],
+		"dopelniacz": ["nia", "niów", "ń"],
+		"celownik": ["niowi", "niom", "ń"],
+		"biernik": ["nia", "niów", "ń"],
+		"nadrzednik": ["niem", "niami", "ń"],
+		"miejscownik": ["niu", "niach", "ń"],
+		"wolacz": ["niu", "niowie", "ń"]	
+	},
+	{
+		"mianownik": ["", "owie", ""],
+		"dopelniacz": ["a", "ów", ""],
+		"celownik": ["owi", "om", ""],
+		"biernik": ["a", "ów", ""],
+		"nadrzednik": ["em", "ami", ""],
+		"miejscownik": ["u", "ach", ""],
+		"wolacz": ["u", "owie", ""]	
 	}
 ]
