@@ -1,0 +1,128 @@
+[
+	{ 
+		"mianownik": ["ki", "cy", "ka"],
+		"dopelniacz": ["kiego", "kich", "kiej"],
+		"celownik": ["kiemu", "kim", "kiej"],
+		"biernik": ["kiego", "kich", "ką"],
+		"nadrzednik": ["kim", "kimi", "ką"],
+		"miejscownik": ["kim", "kich", "kiej"],
+		"wolacz": ["ki", "cy", "ka"]
+	},
+	{
+		"mianownik": ["", "owie", ""],
+		"dopelniacz": ["a", "ów", ""],
+		"celownik": ["owi", "om", ""],
+		"biernik": ["a", "ów", ""],
+		"nadrzednik": ["iem", "ami", ""],
+		"miejscownik": ["u", "ach", ""],
+		"wolacz": ["u", "owie", ""]
+	},
+	{
+		"mianownik": ["ek", "kowie", "ek"],
+		"dopelniacz": ["ka", "ków", "ek"],
+		"celownik": ["kowi", "kom", "ek"],
+		"biernik": ["ka", "ków", "ek"],
+		"nadrzednik": ["kiem", "kami", "ek"],
+		"miejscownik": ["ku", "kach", "ek"],
+		"wolacz": ["ku", "kowie", "ek"]
+	},
+	{
+		"mianownik": ["y", "i", "a"],
+		"dopelniacz": ["ego", "ych", "ej"],
+		"celownik": ["emu", "ym", "ej"],
+		"biernik": ["ego", "ych", "ą"],
+		"nadrzednik": ["ym", "ymi", "ą"],
+		"miejscownik": ["ym", "ych", "ej"],
+		"wolacz": ["y", "i", "a"]
+	},
+	{
+		"mianownik": ["ka", "kowie", "ka"],
+		"dopelniacz": ["ki", "ków", "ki"],
+		"celownik": ["ce", "kom", "ce"],
+		"biernik": ["kę", "ków", "kę"],
+		"nadrzednik": ["ką", "kami", "ką"],
+		"miejscownik": ["ce", "kach", "ce"],
+		"wolacz": ["ka", "kowie", "ka"]
+	},
+	{
+		"mianownik": ["", "owie", ""],
+		"dopelniacz": ["a", "ów", ""],
+		"celownik": ["owi", "om", ""],
+		"biernik": ["a", "ów", ""],
+		"nadrzednik": ["em", "ami", ""],
+		"miejscownik": ["u", "ach", ""],
+		"wolacz": ["u", "owie", ""]
+	},
+	{
+		"mianownik": ["", "owie", ""],
+		"dopelniacz": ["a", "ów", ""],
+		"celownik": ["owi", "om", ""],
+		"biernik": ["a", "ów", ""],
+		"nadrzednik": ["em", "ami", ""],
+		"miejscownik": ["ze", "ach", ""],
+		"wolacz": ["ze", "owie", ""]
+	},
+	{
+		"mianownik": ["el", "lowie", "el"],
+		"dopelniacz": ["la", "lów", "el"],
+		"celownik": ["owi", "lom", "el"],
+		"biernik": ["a", "lów", "el"],
+		"nadrzednik": ["em", "lami", "el"],
+		"miejscownik": ["lu", "lach", "el"],
+		"wolacz": ["lu", "lowie", "el"]
+	},
+	{
+		"mianownik": ["a", "owie", "a"],
+		"dopelniacz": ["y", "ów", "y"],
+		"celownik": ["ze", "om", "ze"],
+		"biernik": ["ę", "ów", "ę"],
+		"nadrzednik": ["ą", "ami", "ą"],
+		"miejscownik": ["ze", "ach", "ze"],
+		"wolacz": ["o", "owie", "o"]
+	},
+	{
+		"mianownik": ["", "owie", ""],
+		"dopelniacz": ["a", "ów", ""],
+		"celownik": ["owi", "om", ""],
+		"biernik": ["a", "ów", ""],
+		"nadrzednik": ["em", "ami", ""],
+		"miejscownik": ["ie", "ach", ""],
+		"wolacz": ["ie", "owie", ""]
+	},
+	{
+		"mianownik": ["ł", "łowie", "ł"],
+		"dopelniacz": ["ła", "łów", "ł"],
+		"celownik": ["łowi", "łom", "ł"],
+		"biernik": ["ła", "łów", "ł"],
+		"nadrzednik": ["łem", "łami", "ł"],
+		"miejscownik": ["le", "łach", "ł"],
+		"wolacz": ["le", "łowie", "ł"]
+	},
+	{
+		"mianownik": ["a", "owie", "a"],
+		"dopelniacz": ["", "ów", ""],
+		"celownik": ["", "om", ""],
+		"biernik": ["ę", "ów", "ę"],
+		"nadrzednik": ["ą", "ami", "ą"],
+		"miejscownik": ["", "ach", ""],
+		"wolacz": ["o", "owie", "o"]
+	},
+	{
+		"mianownik": ["ień", "iowie", "ień"],
+		"dopelniacz": ["nia", "niów", "ień"],
+		"celownik": ["niowi", "niom", "ień"],
+		"biernik": ["nia", "niów", "ień"],
+		"nadrzednik": ["niem", "niami", "ień"],
+		"miejscownik": ["niu", "niach", "ień"],
+		"wolacz": ["niu", "niowie", "ień"]	
+	},
+	{
+		"mianownik": ["ń", "niowie", "ń"],
+		"dopelniacz": ["nia", "niów", "ń"],
+		"celownik": ["niowi", "niom", "ń"],
+		"biernik": ["nia", "niów", "ń"],
+		"nadrzednik": ["niem", "niami", "ń"],
+		"miejscownik": ["niu", "niach", "ń"],
+		"wolacz": ["niu", "niowie", "ń"]	
+	}
+]
