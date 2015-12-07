@@ -135,13 +135,13 @@
 		"wolacz": ["ło", "łowie", "ło"]	
 	},
 	{
-		"mianownik": ["ec", "cowie", "ec"],
-		"dopelniacz": ["ca", "ców", "ec"],
-		"celownik": ["cowi", "com", "ec"],
-		"biernik": ["ca", "ców", "ec"],
-		"nadrzednik": ["cem", "cami", "ec"],
-		"miejscownik": ["cu", "cach", "ec"],
-		"wolacz": ["cu", "cowie", "ec"]	
+		"mianownik": ["ec", "cowie", "iec"],
+		"dopelniacz": ["ca", "ców", "iec"],
+		"celownik": ["cowi", "com", "iec"],
+		"biernik": ["ca", "ców", "iec"],
+		"nadrzednik": ["cem", "cami", "iec"],
+		"miejscownik": ["cu", "cach", "iec"],
+		"wolacz": ["cu", "cowie", "iec"]	
 	},
 	{
 		"mianownik": ["a", "owie", "a"],
