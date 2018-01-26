@@ -1,0 +1,30 @@
+uniq_elements(sequence)
+Returns number of different elements for any type of sequence (tuple, list, string, set). For example, for the string "abracadabra" the result is equal to 5.
+
+
+freq_dic(sequence)
+Counts the number of occurrences of elements for any type of sequence. The function returns a dictionary in which the keys correspond to the elements and the values of the number of elements. For the "abracadabra" chain, the result is: 
+{"a": 5, "b": 2, "c": 1, "d": 1, "r": 2}
+
+
+suffixes(string)
+Generates all suffixes from the given string. For example, for the string "banana" returns the list: 
+["banana", "anana", "nana", "ana", "na", "a"]
+
+
+bigrams(sequence)
+which generates all bigrams from elements for any type of sequential list. Bigram is the sequence of two elements of length 2. For "banana" the result is:
+["ba", "an", "na", "an", "na"]
+
+enigma()
+Program to code text words. The coding ise done according to the following principle - each word is assigned a natural number. For example, the text: "this is an example sentence and this is an example wording" should be coded as:
+[0, 1, 2, 3, 4, 5, 0, 1, 3, 4, 6]
+
+
+substitusion
+Program to replace words (the word is called any string separated by whitespace) in the text according to the dictionary defined in the file, which name will be given as the program argument. In the dictionary, in separate lines there are pairs of words separated by a tab character, which say what word should be changed to which, e.g.
+
+Ala   Alicja
+ma    mieć
+kota  kot
+For the above dictionary and the text "Ala ma kota i psa" read from the standard input, the program should write to the standard output: "Alicja mieć kot i psa".

@@ -1,0 +1,33 @@
+freq_words.pu
+The program counts the number of occurrences of words in the text. The program should read any text from the standard input and print out a list consisting of the 'number of occurrences' and 'word' pairs separated by a tab stop on the standard output. The result list should be sorted after the number of occurrences. Words are normalized with respect to case. Which 10 words is most common in the Brothers Grimm Fairytales?
+
+cat grimms.txt | python freq_words.py | head
+
+
+ngrams.py
+The program for generating all n-grams of words from the standardized text given on the standard input. N-gram is a sequence of n-length words. The program prints one n-gram in one output line. The value of n should be taken as the program argument (default 3).
+
+cat grimms.txt | python ngrams.py 3
+
+
+concordance.py
+The program that searches for all lines in the text containing the word and writes them formatted (search word in each line one below the other separated by two spaces on the left and right) together with the context before and after the search result with a length of n characters. The searched word and the value of n are given as the program argument (n by default 15).
+
+head -250 grimms.txt | python concordance.py have 10
+
+Exit:
+me, I must have the whole
+  he was to have the golden
+  live, and have the
+  you would have carried aw
+
+
+freq_letters.py
+The program which counts the number of occurrences of letters in the text given on the standard input and prints them in the form of a pair of 'letter' 'number of occurrences' separated by a tab. The uppercase letters A-Z and the lowercase letters a-z from the ASCII alphabet are counted. The output is sorted by letters in alphabetical order.
+
+head -200 grimms.txt | python freq_letters.py
+
+Exit (example):
+A 839
+B 383
+C 251
