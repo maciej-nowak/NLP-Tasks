@@ -1,0 +1,1599 @@
+[{
+    "stopien": "dr",
+    "imie": "Magdalena",
+    "nazwisko": "Adamczak",
+    "pokoj": "B1-05",
+    "tel": "61 829-5459",
+    "mail": "magdam@amu.edu.pl",
+    "id": "0"
+}, {
+    "stopien": "dr",
+    "imie": "Sylwia",
+    "nazwisko": "Antoniuk",
+    "pokoj": "B3-25",
+    "tel": "61 829-5511",
+    "mail": "antoniuk@amu.edu.pl",
+    "id": "1"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Grzegorz",
+    "nazwisko": "Banaszak",
+    "pokoj": "B1-36",
+    "tel": "61 829-5504",
+    "mail": "banaszak@amu.edu.pl",
+    "id": "2"
+}, {
+    "stopien": "dr",
+    "imie": "Stefan",
+    "nazwisko": "Barańczuk",
+    "pokoj": "B1-17",
+    "tel": "61 829-5485",
+    "mail": "stefbar@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~stefbar",
+    "id": "3"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Tadeusz",
+    "nazwisko": "Batóg",
+    "pokoj": "B2-31",
+    "tel": "61 829-5446",
+    "mail": "tabat@amu.edu.pl",
+    "id": "4"
+}, {
+    "stopien": "dr",
+    "imie": "Małgorzata",
+    "nazwisko": "Bednarska-Bzdęga",
+    "pokoj": "B3-33",
+    "tel": "61 829-5389",
+    "mail": "mbed@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~mbed",
+    "id": "5"
+}, {
+    "stopien": "dr",
+    "imie": "Joanna",
+    "nazwisko": "Berlińska",
+    "pokoj": "B4-05",
+    "tel": "61 829-5333",
+    "mail": "berlinsk@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~berlinsk/",
+    "id": "6"
+}, {
+    "stopien": "mgr",
+    "imie": "Dorota",
+    "nazwisko": "Blinkiewicz",
+    "pokoj": "B1-12",
+    "tel": "61 829-5467",
+    "mail": "dorota.blinkiewicz@amu.edu.pl",
+    "id": "7"
+}, {
+    "stopien": "dr",
+    "imie": "Zbigniew",
+    "nazwisko": "Błaszczyk",
+    "pokoj": "B1-11",
+    "tel": "61 829-5465",
+    "mail": "blaszczyk@amu.edu.pl",
+    "id": "8"
+}, {
+    "stopien": "dr",
+    "imie": "Izabela",
+    "nazwisko": "Bondecka-Krzykowska",
+    "pokoj": "B2-33",
+    "tel": "61 829-5449",
+    "mail": "izab@amu.edu.pl",
+    "id": "9"
+}, {
+    "stopien": "dr",
+    "imie": "Marcin",
+    "nazwisko": "Borkowski",
+    "pokoj": "B3-46",
+    "tel": "61 829-5375",
+    "mail": "mbork@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Marcin_Borkowski",
+    "id": "10"
+}, {
+    "stopien": "mgr",
+    "imie": "Monika",
+    "nazwisko": "Budzyńska",
+    "pokoj": "A1-1,2",
+    "tel": "61 829-5303",
+    "mail": "monika.budzynska@amu.edu.pl",
+    "id": "11"
+}, {
+    "stopien": "dr",
+    "imie": "Daria",
+    "nazwisko": "Bugajewska",
+    "pokoj": "B3-45",
+    "tel": "61 829-5359",
+    "mail": "dbw@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Daria_Bugajewska",
+    "id": "12"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Dariusz",
+    "nazwisko": "Bugajewski",
+    "pokoj": "B3-06",
+    "tel": "61 829-5358",
+    "mail": "ddbb@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Dariusz_Bugajewski",
+    "id": "13"
+}, {
+    "stopien": "mgr",
+    "imie": "Adam",
+    "nazwisko": "Burchardt",
+    "pokoj": "B1-22",
+    "tel": "61 829-5491",
+    "mail": "adam.burchardt@amu.edu.pl",
+    "id": "14"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Wojciech",
+    "nazwisko": "Buszkowski",
+    "pokoj": "B2-29",
+    "tel": "61 829-5444",
+    "mail": "buszko@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~buszko",
+    "id": "15"
+}, {
+    "stopien": "mgr",
+    "imie": "Rafał",
+    "nazwisko": "Bystrzycki",
+    "pokoj": "B0-10",
+    "tel": "61 829-5511",
+    "mail": "rafbys@amu.edu.pl",
+    "id": "16"
+}, {
+    "stopien": "dr",
+    "imie": "Bartłomiej",
+    "nazwisko": "Bzdęga",
+    "pokoj": "B1-15",
+    "tel": "61 829-5354",
+    "mail": "exul@amu.edu.pl",
+    "id": "17"
+}, {
+    "stopien": "mgr",
+    "imie": "Tadeusz",
+    "nazwisko": "Chawziuk",
+    "pokoj": "B3-13",
+    "tel": "61 829-5367",
+    "mail": "tc21982@amu.edu.pl",
+    "id": "18"
+}, {
+    "stopien": "dr",
+    "imie": "Tomasz",
+    "nazwisko": "Ciaś",
+    "pokoj": "B1-47",
+    "tel": "61 829-5480",
+    "mail": "tcias@amu.edu.pl",
+    "id": "19"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Mieczysław",
+    "nazwisko": "Cichoń",
+    "pokoj": "B4-19",
+    "tel": "61 829-5347",
+    "mail": "mcichon@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~mcichon",
+    "id": "20"
+}, {
+    "stopien": "dr",
+    "imie": "Roman",
+    "nazwisko": "Czarnowski",
+    "pokoj": "B2-41",
+    "tel": "61 829-5420",
+    "mail": "rczar@amu.edu.pl",
+    "id": "21"
+}, {
+    "stopien": "mgr",
+    "imie": "Mateusz",
+    "nazwisko": "Dąbrowicz",
+    "pokoj": "B1-45",
+    "tel": "61 829-5477",
+    "mail": "mateusz.dabrowicz@amu.edu.pl",
+    "id": "22"
+}, {
+    "stopien": "",
+    "imie": "Elżbieta",
+    "nazwisko": "Dąbrowska-Kąkol",
+    "pokoj": "A1-4",
+    "tel": "61 829-5305",
+    "mail": "edab@amu.edu.pl",
+    "id": "23"
+}, {
+    "stopien": "dr",
+    "imie": "Maciej",
+    "nazwisko": "Dołęga",
+    "id": "24"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Ryszard",
+    "nazwisko": "Doman",
+    "pokoj": "B1-32",
+    "tel": "61 829-5500",
+    "mail": "rydoman@amu.edu.pl",
+    "id": "25"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Paweł",
+    "nazwisko": "Domański",
+    "pokoj": "B3-40",
+    "tel": "61 829-5369",
+    "mail": "domanski@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~domanski",
+    "id": "26"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Lech",
+    "nazwisko": "Drewnowski",
+    "pokoj": "B3-41",
+    "tel": "61 829-5370",
+    "mail": "drewlech@amu.edu.pl",
+    "id": "27"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Aldona",
+    "nazwisko": "Dutkiewicz",
+    "pokoj": "B2-05",
+    "tel": "61 829-5406",
+    "mail": "szukala@amu.edu.pl",
+    "id": "28"
+}, {
+    "stopien": "mgr",
+    "imie": "Tomasz",
+    "nazwisko": "Dwojak",
+    "pokoj": "B2-36",
+    "tel": "61 829-5452",
+    "mail": "t.dwojak@amu.edu.pl",
+    "id": "29"
+}, {
+    "stopien": "dr",
+    "imie": "Krzysztof",
+    "nazwisko": "Dyczkowski",
+    "pokoj": "B4-17",
+    "tel": "61 829-5402",
+    "mail": "chris@amu.edu.pl",
+    "id": "30"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Paweł",
+    "nazwisko": "Foralewski",
+    "pokoj": "B3-47",
+    "tel": "61 829-5377",
+    "mail": "katon@amu.edu.pl",
+    "id": "31"
+}, {
+    "stopien": "",
+    "imie": "Maria",
+    "nazwisko": "Gajda",
+    "pokoj": "A1-1,2",
+    "tel": "61 829-5301",
+    "mail": "maria.gajda@amu.edu.pl",
+    "id": "32"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Wojciech",
+    "nazwisko": "Gajda",
+    "pokoj": "B1-35",
+    "tel": "61 829-5503",
+    "mail": "gajda@amu.edu.pl",
+    "id": "33"
+}, {
+    "stopien": "mgr",
+    "imie": "Magdalena",
+    "nazwisko": "Gałązkiewicz",
+    "pokoj": "A1-31B",
+    "tel": "61 829-5311",
+    "mail": "magdag@amu.edu.pl",
+    "id": "34"
+}, {
+    "stopien": "dr",
+    "imie": "Andrzej",
+    "nazwisko": "Gaszak",
+    "pokoj": "B1-33",
+    "tel": "61 829-5501",
+    "mail": "agaszak@amu.edu.pl",
+    "id": "35"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Stanisław",
+    "nazwisko": "Gawiejnowicz",
+    "pokoj": "B4-06",
+    "tel": "61 829-5334",
+    "mail": "stgawiej@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~stgawiej/",
+    "id": "36"
+}, {
+    "stopien": "mgr",
+    "imie": "Zdzisława",
+    "nazwisko": " Gierszal",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "zgiersza@amu.edu.pl",
+    "id": "37"
+}, {
+    "stopien": "dr",
+    "imie": "Karol",
+    "nazwisko": "Gierszewski ",
+    "pokoj": "B2-07",
+    "tel": "61 829-5419",
+    "mail": "kgiersz@amu.edu.pl",
+    "id": "38"
+}, {
+    "stopien": "dr",
+    "imie": "Marcin",
+    "nazwisko": "Gogolewski",
+    "pokoj": "B0-15",
+    "tel": "61 829-5400",
+    "mail": "marcing@amu.edu.pl",
+    "id": "39"
+}, {
+    "stopien": "mgr",
+    "imie": "Anna",
+    "nazwisko": "Golińska",
+    "pokoj": "B1-47",
+    "tel": "61 829-5480",
+    "mail": "czyzak@amu.edu.pl",
+    "id": "40"
+}, {
+    "stopien": "dr",
+    "imie": "Michał",
+    "nazwisko": "Goliński",
+    "pokoj": "B3-10",
+    "tel": "61 829-5362",
+    "mail": "golinski@amu.edu.pl",
+    "id": "41"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Tomasz",
+    "nazwisko": "Górecki",
+    "pokoj": "B4-11",
+    "tel": "61 829-5340",
+    "mail": "tomasz.gorecki@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~drizzt",
+    "id": "42"
+}, {
+    "stopien": "dr",
+    "imie": "Krzysztof",
+    "nazwisko": "Górnisiewicz",
+    "pokoj": "B1-16",
+    "tel": "61 829-5483",
+    "mail": "krisgorn@amu.edu.pl",
+    "id": "43"
+}, {
+    "stopien": "dr",
+    "imie": "Jolanta",
+    "nazwisko": "Grala-Michalak",
+    "pokoj": "B4-14",
+    "tel": "61 829-5343",
+    "mail": "grala@amu.edu.pl",
+    "id": "44"
+}, {
+    "stopien": "dr",
+    "imie": "Filip",
+    "nazwisko": "Graliński",
+    "pokoj": "B2-34",
+    "tel": "61 829-5437",
+    "mail": "filipg@amu.edu.pl",
+    "www": "http://amu.edu.pl/~filipg",
+    "id": "45"
+}, {
+    "stopien": "mgr",
+    "imie": "Roman",
+    "nazwisko": "Grundkiewicz",
+    "pokoj": "B2-36",
+    "tel": "61 829-5452",
+    "mail": "romang@amu.edu.pl",
+    "id": "46"
+}, {
+    "stopien": "lic.",
+    "imie": "Magdalena",
+    "nazwisko": "Grygiel",
+    "pokoj": "A1-27",
+    "tel": "61 829-5548",
+    "mail": "grygielm@amu.edu.pl",
+    "id": "47"
+}, {
+    "stopien": "dr",
+    "imie": "Maciej",
+    "nazwisko": "Grześkowiak",
+    "pokoj": "B2-06",
+    "tel": "61 829-5422",
+    "mail": "maciejg@amu.edu.pl",
+    "id": "48"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Jerzy",
+    "nazwisko": "Grzybowski",
+    "pokoj": "B3-45",
+    "tel": "61 829-5359",
+    "mail": "jgrz@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Jerzy_Grzybowski",
+    "id": "49"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Michał",
+    "nazwisko": "Hanćkowiak",
+    "pokoj": "B3-34",
+    "tel": "61 829-5388",
+    "mail": "mhanckow@amu.edu.pl",
+    "id": "50"
+}, {
+    "stopien": "mgr",
+    "imie": "Mateusz",
+    "nazwisko": "Hromada",
+    "pokoj": "A1-26",
+    "tel": "61 829-5319",
+    "mail": "mhromada@wmi.amu.edu.pl",
+    "id": "51"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Henryk",
+    "nazwisko": "Hudzik",
+    "pokoj": "B3-04",
+    "tel": "61 829-5356",
+    "mail": "hudzik@amu.edu.pl",
+    "id": "52"
+}, {
+    "stopien": "",
+    "imie": "Maria",
+    "nazwisko": "Hudzik",
+    "pokoj": "B0-16",
+    "tel": "61 829-5547",
+    "mail": "mariak@amu.edu.pl",
+    "id": "53"
+}, {
+    "stopien": "mgr",
+    "imie": "Eliza",
+    "nazwisko": "Jackowska",
+    "pokoj": "B0-10",
+    "tel": "61 829-5511",
+    "mail": "elijac@amu.edu.pl",
+    "id": "54"
+}, {
+    "stopien": "",
+    "imie": "Danuta",
+    "nazwisko": "Janicka",
+    "pokoj": "A1-29",
+    "tel": "61 829-5321",
+    "mail": "janicka@amu.edu.pl",
+    "id": "55"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Magdalena",
+    "nazwisko": "Jaroszewska",
+    "pokoj": "B1-43",
+    "tel": "61 829-5474",
+    "mail": "magjar@amu.edu.pl",
+    "id": "56"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Michał",
+    "nazwisko": "Jasiczak",
+    "pokoj": "B2-42",
+    "tel": "61 829-5423",
+    "mail": "mjk@amu.edu.pl",
+    "id": "57"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Krzysztof",
+    "nazwisko": "Jassem",
+    "pokoj": "B2-25",
+    "tel": "61 829-5442",
+    "mail": "jassem@amu.edu.pl",
+    "id": "58"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Jerzy",
+    "nazwisko": "Jaworski",
+    "pokoj": "B3-22",
+    "tel": "61 829-5396",
+    "mail": "jaworski@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~jaworski",
+    "id": "59"
+}, {
+    "stopien": "dr",
+    "imie": "Rafał",
+    "nazwisko": "Jaworski",
+    "pokoj": "B2-35",
+    "tel": "61 829-5450",
+    "mail": "rjawor@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~rjawor/",
+    "id": "60"
+}, {
+    "stopien": "dr",
+    "imie": "Marcin",
+    "nazwisko": "Junczys-Dowmunt",
+    "pokoj": "B2-34",
+    "tel": "61 829-5437",
+    "mail": "junczys@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~junczys",
+    "id": "61"
+}, {
+    "stopien": "dr",
+    "imie": "Edyta",
+    "nazwisko": "Juskowiak",
+    "pokoj": "B1-04",
+    "tel": "61 829-5457",
+    "mail": "edyta@amu.edu.pl",
+    "id": "62"
+}, {
+    "stopien": "dr",
+    "imie": "Jan",
+    "nazwisko": "Kaczmarek",
+    "pokoj": "B2-37",
+    "tel": "61 829-5453",
+    "mail": "jankaczm@amu.edu.pl",
+    "id": "63"
+}, {
+    "stopien": "dr",
+    "imie": "Radosław",
+    "nazwisko": "Kaczmarek",
+    "pokoj": "B3-13",
+    "tel": "61 829-5366",
+    "mail": "radekk@amu.edu.pl",
+    "id": "64"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Jerzy",
+    "nazwisko": "Kaczorowski",
+    "pokoj": "B2-45",
+    "tel": "61 829-5426",
+    "mail": "kjerzy@amu.edu.pl",
+    "id": "65"
+}, {
+    "stopien": "dr",
+    "imie": "Maciej",
+    "nazwisko": "Kalkowski",
+    "pokoj": "B2-23",
+    "tel": "61 829-5367",
+    "mail": "kalkos@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~kalkos/",
+    "id": "66"
+}, {
+    "stopien": "dr",
+    "imie": "Marek",
+    "nazwisko": "Kaluba",
+    "pokoj": "B1-30",
+    "tel": "61 829-5497",
+    "mail": "kalmar@amu.edu.pl",
+    "id": "67"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Michael",
+    "nazwisko": "Kaminski",
+    "pokoj": "B1-39",
+    "tel": "61 829-5470",
+    "mail": "kaminski@cs.technion.ac.il",
+    "id": "68"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Maciej",
+    "nazwisko": "Kandulski",
+    "pokoj": "B2-30",
+    "tel": "61 829-5445",
+    "mail": "mkandu@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~mkandu",
+    "id": "69"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Michał",
+    "nazwisko": "Karoński",
+    "pokoj": "B3-24",
+    "tel": "61 829-5393",
+    "mail": "karonski@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~karonski",
+    "id": "70"
+}, {
+    "stopien": "mgr",
+    "imie": "Henryk",
+    "nazwisko": "Kasprzak",
+    "pokoj": "B1-46",
+    "tel": "61 829-5479",
+    "mail": "henryk.kasprzak@amu.edu.pl",
+    "id": "71"
+}, {
+    "stopien": "dr",
+    "imie": "Piotr",
+    "nazwisko": "Kasprzak",
+    "pokoj": "B3-36",
+    "tel": "61 829-5401",
+    "mail": "kasp@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Piotr_Kasprzak",
+    "id": "72"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Krystyna",
+    "nazwisko": "Katulska",
+    "pokoj": "B4-10",
+    "tel": "61 829-5339",
+    "mail": "krakat@amu.edu.pl",
+    "id": "73"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Jerzy",
+    "nazwisko": "Kąkol",
+    "pokoj": "B3-42",
+    "tel": "61 829-5371",
+    "mail": "kakol@amu.edu.pl",
+    "id": "74"
+}, {
+    "stopien": "mgr",
+    "imie": "Marta",
+    "nazwisko": "Kłobukowska",
+    "pokoj": "A1-27",
+    "tel": "61 829-5548",
+    "mail": "mklobukowska@amu.edu.pl",
+    "id": "75"
+}, {
+    "stopien": "mgr",
+    "imie": "Danuta",
+    "nazwisko": "Kmiecik",
+    "pokoj": "B2-46",
+    "tel": "61 829-5427",
+    "mail": "dkmiecik@amu.edu.pl",
+    "id": "76"
+}, {
+    "stopien": "",
+    "imie": "Agnieszka",
+    "nazwisko": " Kmiecik-Wojnicz",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "adziak@amu.edu.pl",
+    "id": "77"
+}, {
+    "stopien": "dr",
+    "imie": "Mirosława",
+    "nazwisko": "Kołowska-Gawiejnowicz",
+    "pokoj": "B2-24",
+    "tel": "61 829-5441",
+    "mail": "mkolowsk@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~mkolowsk/welcome.html",
+    "id": "78"
+}, {
+    "stopien": "mgr",
+    "imie": "Joanna",
+    "nazwisko": "Kończak",
+    "pokoj": "B3-48",
+    "tel": "61 829-5378",
+    "mail": "jkonczak@amu.edu.pl",
+    "id": "79"
+}, {
+    "stopien": "dr",
+    "imie": "Teresa",
+    "nazwisko": "Kończal",
+    "pokoj": "B1-46",
+    "tel": "61 829-5478",
+    "mail": "tkonczal@amu.edu.pl",
+    "id": "80"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Maria",
+    "nazwisko": "Korcz",
+    "pokoj": "B1-06",
+    "tel": "61 829-5460",
+    "mail": "mkorcz@amu.edu.pl",
+    "id": "81"
+}, {
+    "stopien": "mgr",
+    "imie": "Izabela",
+    "nazwisko": "Krupińska",
+    "pokoj": "B3-29",
+    "tel": "61 829-5512",
+    "mail": "izafil@amu.edu.pl",
+    "id": "82"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Mirosław",
+    "nazwisko": "Krzyśko",
+    "pokoj": "B4-09",
+    "tel": "61 829-5338",
+    "mail": "mkrzysko@amu.edu.pl",
+    "id": "83"
+}, {
+    "stopien": "dr",
+    "imie": "Krzysztof",
+    "nazwisko": "Krzywdziński",
+    "pokoj": "B2-23",
+    "tel": "61 829-5367",
+    "mail": "kkrzywd@amu.edu.pl",
+    "id": "84"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Ireneusz",
+    "nazwisko": "Kubiaczyk",
+    "pokoj": "B4-21",
+    "tel": "61 829-5349",
+    "mail": "kuba@amu.edu.pl",
+    "id": "85"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Tomasz",
+    "nazwisko": "Kubiak",
+    "pokoj": "B1-41",
+    "tel": "61 829-5472",
+    "mail": "tkubiak@amu.edu.pl",
+    "id": "86"
+}, {
+    "stopien": "dr",
+    "imie": "Marek",
+    "nazwisko": "Kubis",
+    "pokoj": "B3-19",
+    "tel": "61 829-5385",
+    "mail": "mkubis@amu.edu.pl",
+    "id": "87"
+}, {
+    "stopien": "dr",
+    "imie": "Wiesław",
+    "nazwisko": "Kurc",
+    "pokoj": "B2-16",
+    "tel": "61 829-5433",
+    "mail": "wkurc@amu.edu.pl",
+    "id": "88"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Tomasz",
+    "nazwisko": "Łuczak",
+    "pokoj": "B3-30",
+    "tel": "61 829-5394",
+    "mail": "tomasz@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~tomasz/",
+    "id": "89"
+}, {
+    "stopien": "dr",
+    "imie": "Adrian",
+    "nazwisko": "Łydka",
+    "pokoj": "B2-44",
+    "tel": "61 829-5425",
+    "mail": "adrianl@amu.edu.pl",
+    "id": "90"
+}, {
+    "stopien": "dr",
+    "imie": "Stanisław",
+    "nazwisko": "Machowski",
+    "pokoj": "B1-03",
+    "tel": "61 829-5455",
+    "mail": "machowsk@amu.edu.pl",
+    "id": "91"
+}, {
+    "stopien": "dr",
+    "imie": "Aleksandra",
+    "nazwisko": "Maciejewska",
+    "pokoj": "B1-46",
+    "tel": "61 829-5479",
+    "mail": "alma@amu.edu.pl",
+    "id": "92"
+}, {
+    "stopien": "dr",
+    "imie": "Agnieszka",
+    "nazwisko": "Małecka",
+    "pokoj": "B1-10",
+    "tel": "61 829-5464",
+    "mail": "awoj@amu.edu.pl",
+    "id": "93"
+}, {
+    "stopien": "dr",
+    "imie": "Jacek",
+    "nazwisko": "Marciniak",
+    "pokoj": "B3-17",
+    "tel": "61 829-5381",
+    "mail": "jacekmar@amu.edu.pl",
+    "id": "94"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Wacław",
+    "nazwisko": "Marzantowicz",
+    "pokoj": "B1-31",
+    "tel": "61 829-5499",
+    "mail": "marzan@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~marzan",
+    "id": "95"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Mieczysław",
+    "nazwisko": "Mastyło",
+    "pokoj": "B4-23",
+    "tel": "61 829-5351",
+    "mail": "mastylo@amu.edu.pl",
+    "id": "96"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Artur",
+    "nazwisko": "Michalak",
+    "pokoj": "B3-11",
+    "tel": "61 829-5364",
+    "mail": "michalak@amu.edu.pl",
+    "id": "97"
+}, {
+    "stopien": "dr",
+    "imie": "Katarzyna",
+    "nazwisko": "Mieczkowska-Chwedyna",
+    "pokoj": "B3-37",
+    "tel": "61 829-5345",
+    "mail": "kaska@amu.edu.pl",
+    "id": "98"
+}, {
+    "stopien": "dr",
+    "imie": "Janusz",
+    "nazwisko": "Migda",
+    "pokoj": "B2-04",
+    "tel": "61 829-5404",
+    "mail": "migda@amu.edu.pl",
+    "id": "99"
+}, {
+    "stopien": "dr",
+    "imie": "Paweł",
+    "nazwisko": "Mleczko",
+    "pokoj": "B1-23",
+    "tel": "61 829-5492",
+    "mail": "pml@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~pml",
+    "id": "100"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Roman",
+    "nazwisko": "Murawski",
+    "pokoj": "B2-32",
+    "tel": "61 829-5447",
+    "mail": "rmur@amu.edu.pl",
+    "www": "http://www.logika.amu.edu.pl/murawski_dane.php",
+    "id": "101"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Julian",
+    "nazwisko": "Musielak",
+    "pokoj": "B1-40",
+    "tel": "61 829-5471",
+    "mail": "musielak@amu.edu.pl",
+    "id": "102"
+}, {
+    "stopien": "",
+    "imie": "Renata",
+    "nazwisko": "Myl",
+    "pokoj": "A1-3",
+    "tel": "61 829-5306",
+    "mail": "jonatan@amu.edu.pl",
+    "id": "103"
+}, {
+    "stopien": "dr",
+    "imie": "Bartosz",
+    "nazwisko": "Naskręcki",
+    "pokoj": "B1-15",
+    "tel": "61 829-5354",
+    "mail": "bartnas@amu.edu.pl",
+    "id": "104"
+}, {
+    "stopien": "mgr",
+    "imie": "Adam",
+    "nazwisko": "Nawrocki",
+    "pokoj": "B3-36",
+    "tel": "61 829-5401",
+    "mail": "an20468@amu.edu.pl",
+    "id": "105"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Marek",
+    "nazwisko": "Nawrocki",
+    "pokoj": "B3-44",
+    "tel": "61 829-5373",
+    "mail": "nawrocki@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~nawrocki",
+    "id": "106"
+}, {
+    "stopien": "mgr",
+    "imie": "Teresa",
+    "nazwisko": "Nowak",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "tenowa@amu.edu.pl",
+    "id": "107"
+}, {
+    "stopien": "dr",
+    "imie": "Edyta",
+    "nazwisko": "Nowińska",
+    "pokoj": "B1-44",
+    "tel": "61 829-5475",
+    "mail": "nowinska@amu.edu.pl",
+    "id": "108"
+}, {
+    "stopien": "mgr",
+    "imie": "Wojciech",
+    "nazwisko": "Obarski",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "obarski@amu.edu.pl",
+    "id": "109"
+}, {
+    "stopien": "dr",
+    "imie": "Tomasz",
+    "nazwisko": "Obrębski",
+    "pokoj": "B3-18",
+    "tel": "61 829-5382",
+    "mail": "obrebski@amu.edu.pl",
+    "id": "110"
+}, {
+    "stopien": "mgr",
+    "imie": "Magdalena",
+    "nazwisko": "Pakulska",
+    "pokoj": "A1-31",
+    "tel": "61 829-5308",
+    "mail": "pakulska@amu.edu.pl",
+    "id": "111"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Zbigniew",
+    "nazwisko": "Palka",
+    "pokoj": "B4-07",
+    "tel": "61 829-5335",
+    "mail": "palka@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~palka",
+    "id": "112"
+}, {
+    "stopien": "dr",
+    "imie": "Wojciech",
+    "nazwisko": "Pałubicki",
+    "pokoj": "B4-18",
+    "tel": "61 829-5345",
+    "mail": "wp06@amu.edu.pl",
+    "id": "113"
+}, {
+    "stopien": "mgr",
+    "imie": "Agata",
+    "nazwisko": "Panfil",
+    "pokoj": "B3-48",
+    "tel": "61 829-5417",
+    "mail": "kakola@amu.edu.pl",
+    "id": "114"
+}, {
+    "stopien": "dr",
+    "imie": "Łukasz",
+    "nazwisko": "Pańkowski",
+    "pokoj": "B2-07",
+    "tel": "61 829-5407",
+    "mail": "lpan@amu.edu.pl",
+    "id": "115"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Krzysztof",
+    "nazwisko": "Pawałowski",
+    "pokoj": "B1-21",
+    "tel": "61 829-5490",
+    "mail": "kpa@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~kpa",
+    "id": "116"
+}, {
+    "stopien": "mgr",
+    "imie": "Olga",
+    "nazwisko": "Pawlak",
+    "pokoj": "A1-1,2",
+    "tel": "61 829-5302",
+    "mail": "olapa@amu.edu.pl",
+    "id": "117"
+}, {
+    "stopien": "mgr",
+    "imie": "Tomasz",
+    "nazwisko": "Piłka",
+    "pokoj": "A1-05",
+    "tel": "61 829-5314",
+    "mail": "pilka@amu.edu.pl",
+    "id": "118"
+}, {
+    "stopien": "dr",
+    "imie": "Krzysztof",
+    "nazwisko": "Piszczek",
+    "pokoj": "B3-10",
+    "tel": "61 829-5362",
+    "mail": "kpk@amu.edu.pl",
+    "id": "119"
+}, {
+    "stopien": "dr",
+    "imie": "Piotr",
+    "nazwisko": "Płuciennik",
+    "pokoj": "B1-28",
+    "tel": "61 829-5495",
+    "mail": "pplucien@amu.edu.pl",
+    "id": "120"
+}, {
+    "stopien": "dr",
+    "imie": "Joanna",
+    "nazwisko": "Polcyn-Lewandowska",
+    "pokoj": "B3-35",
+    "tel": "61 829-5398",
+    "mail": "joaska@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~joaska",
+    "id": "121"
+}, {
+    "stopien": "dr",
+    "imie": "Wojciech",
+    "nazwisko": "Politarczyk",
+    "pokoj": "B1-30",
+    "tel": "61 829-5477",
+    "mail": "politarw@amu.edu.pl",
+    "id": "122"
+}, {
+    "stopien": "mgr",
+    "imie": "Maciej",
+    "nazwisko": "Prill",
+    "pokoj": "A1-26",
+    "tel": "61 829-5319",
+    "mail": "mprill@wmi.amu.edu.pl",
+    "www": "http://eduwiki.wmi.amu.edu.pl/mprill",
+    "id": "123"
+}, {
+    "stopien": "mgr",
+    "imie": "Olawa",
+    "nazwisko": "Promińska",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "olawa@amu.edu.pl",
+    "id": "124"
+}, {
+    "stopien": "dr",
+    "imie": "Adam",
+    "nazwisko": "Przestacki",
+    "pokoj": "B2-12",
+    "tel": "61 829-5415",
+    "mail": "adamp@amu.edu.pl",
+    "id": "125"
+}, {
+    "stopien": "dr",
+    "imie": "Hubert",
+    "nazwisko": "Przybycień",
+    "pokoj": "B3-46",
+    "tel": "61 829-5376",
+    "mail": "hubert@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Hubert_Przybycień",
+    "id": "126"
+}, {
+    "stopien": "mgr",
+    "imie": "Bartłomiej",
+    "nazwisko": "Przybylski",
+    "pokoj": "B4-04",
+    "tel": "61 829-5330",
+    "mail": "bap@amu.edu.pl",
+    "www": "http://bap.faculty.wmi.amu.edu.pl",
+    "id": "127"
+}, {
+    "stopien": "mgr",
+    "imie": "Jan",
+    "nazwisko": "Pulikowski",
+    "pokoj": "B1-33",
+    "tel": "61 829-5501",
+    "mail": "pulik@amu.edu.pl",
+    "id": "128"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Paulina",
+    "nazwisko": "Pych-Taberska",
+    "pokoj": "B1-23",
+    "tel": "61 829-5492",
+    "mail": "ppych@amu.edu.pl",
+    "id": "129"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Maciej",
+    "nazwisko": "Radziejewski",
+    "pokoj": "B2-10",
+    "tel": "61 829-5411",
+    "mail": "maciejr@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~maciejr",
+    "id": "130"
+}, {
+    "stopien": "dr",
+    "imie": "Michał",
+    "nazwisko": "Ren",
+    "pokoj": "B0-15",
+    "tel": "61 829-5430",
+    "mail": "renmich@amu.edu.pl",
+    "id": "131"
+}, {
+    "stopien": "dr",
+    "imie": "Anna",
+    "nazwisko": "Ren-Kurc",
+    "pokoj": "",
+    "mail": "renkurc@amu.edu.pl",
+    "id": "132"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Andrzej",
+    "nazwisko": "Ruciński",
+    "pokoj": "B3-23",
+    "tel": "61 829-5391",
+    "mail": "rucinski@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~rucinski",
+    "id": "133"
+}, {
+    "stopien": "dr",
+    "imie": "Jerzy",
+    "nazwisko": "Rutkowski",
+    "pokoj": "B2-40",
+    "tel": "61 829-5419",
+    "mail": "rutjerzy@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~rutjerzy",
+    "id": "134"
+}, {
+    "stopien": "dr",
+    "imie": "Katarzyna",
+    "nazwisko": "Rybarczyk-Krzywdzińska",
+    "pokoj": "B3-35",
+    "tel": "61 829-5398",
+    "mail": "kryba@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~kryba",
+    "id": "135"
+}, {
+    "stopien": "mgr",
+    "imie": "Michał",
+    "nazwisko": "Rzeczkowski",
+    "pokoj": "B1-29",
+    "tel": "61 829-5496",
+    "mail": "rzeczkow@amu.edu.pl",
+    "id": "136"
+}, {
+    "stopien": "dr",
+    "imie": "Piotr",
+    "nazwisko": "Rzonsowski",
+    "pokoj": "",
+    "mail": "rzonsol@amu.edu.pl",
+    "id": "137"
+}, {
+    "stopien": "mgr",
+    "imie": "Jędrzej",
+    "nazwisko": "Sadowski",
+    "pokoj": "",
+    "mail": "jeski@amu.edu.pl",
+    "id": "138"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Tomasz",
+    "nazwisko": "Schoen",
+    "pokoj": "B3-31",
+    "tel": "61 829-5395",
+    "mail": "schoen@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~schoen",
+    "id": "139"
+}, {
+    "stopien": "mgr",
+    "imie": "Ewa",
+    "nazwisko": "Siekierska",
+    "pokoj": "biblioteka",
+    "tel": "61 829-5522",
+    "mail": "ewaantteledu.pl",
+    "id": "140"
+}, {
+    "stopien": "dr",
+    "imie": "Janina",
+    "nazwisko": "Sierocka",
+    "pokoj": "B1-03",
+    "tel": "61 829-5455",
+    "mail": "jsierock@amu.edu.pl",
+    "id": "141"
+}, {
+    "stopien": "dr",
+    "imie": "Aneta",
+    "nazwisko": "Sikorska-Nowak",
+    "pokoj": "B4-20",
+    "tel": "61 829-5348",
+    "mail": "anetas@amu.edu.pl",
+    "id": "142"
+}, {
+    "stopien": "lic.",
+    "imie": "Elżbieta",
+    "nazwisko": "Skrzypczak",
+    "pokoj": "A1-7",
+    "tel": "61 829-5309",
+    "mail": "epskrzyp@amu.edu.pl",
+    "id": "143"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Leszek",
+    "nazwisko": "Skrzypczak",
+    "pokoj": "B1-42",
+    "tel": "61 829-5473",
+    "mail": "lskrzyp@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~lskrzyp/Leszek-e.html.en",
+    "id": "144"
+}, {
+    "stopien": "dr",
+    "imie": "Łukasz",
+    "nazwisko": "Smaga",
+    "pokoj": "B4-08",
+    "tel": "61 829-5336",
+    "mail": "ls@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~ls",
+    "id": "145"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Andrzej",
+    "nazwisko": "Sołtysiak",
+    "pokoj": "B2-48",
+    "tel": "61 829-5429",
+    "mail": "asoltys@amu.edu.pl",
+    "id": "146"
+}, {
+    "stopien": "dr inż.",
+    "imie": "Anna",
+    "nazwisko": "Stachowiak",
+    "pokoj": "B4-27",
+    "tel": "61 829-5381",
+    "mail": "aniap@amu.edu.pl",
+    "id": "147"
+}, {
+    "stopien": "mgr",
+    "imie": "Magdalena",
+    "nazwisko": "Stachowiak",
+    "pokoj": "A1-6",
+    "tel": "61 829-5316",
+    "mail": "magstach@amu.edu.pl",
+    "id": "148"
+}, {
+    "stopien": "mgr",
+    "imie": "Bartosz",
+    "nazwisko": "Staniów",
+    "pokoj": "B1-29",
+    "tel": "61 829-5496",
+    "mail": "bartsta@amu.edu.pl",
+    "id": "149"
+}, {
+    "stopien": "",
+    "imie": "Maria",
+    "nazwisko": "Staszków",
+    "pokoj": "A1-3",
+    "tel": "61 829-5306",
+    "mail": "staszkow@amu.edu.pl",
+    "id": "150"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Stanisław",
+    "nazwisko": "Stoiński",
+    "pokoj": "B1-39",
+    "tel": "61 829-5470",
+    "mail": "stoi@amu.edu.pl",
+    "id": "151"
+}, {
+    "stopien": "mgr",
+    "imie": "Tomasz",
+    "nazwisko": "Stroiński",
+    "pokoj": "B1-45",
+    "tel": "61 829-5477",
+    "mail": "tomasz.stroinski@amu.edu.pl",
+    "id": "152"
+}, {
+    "stopien": "mgr",
+    "imie": "Joanna",
+    "nazwisko": "Stróżyk",
+    "pokoj": "B1-05",
+    "tel": "61 829-5480",
+    "mail": "joanna.strozyk@amu.edu.pl",
+    "id": "153"
+}, {
+    "stopien": "dr",
+    "imie": "Cezary",
+    "nazwisko": "Suwalski",
+    "pokoj": "B2-17",
+    "tel": "61 829-5432",
+    "mail": "suwalski@amu.edu.pl",
+    "id": "154"
+}, {
+    "stopien": "mgr",
+    "imie": "Bogumił",
+    "nazwisko": "Szmańda",
+    "pokoj": "B2-18",
+    "tel": "61 829-5513",
+    "mail": "adm-wmi.amu.edu.pl",
+    "id": "155"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Stanisław",
+    "nazwisko": "Szufla",
+    "pokoj": "B2-47",
+    "tel": "61 829-5428",
+    "mail": "szufmat@amu.edu.pl",
+    "id": "156"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Tomasz",
+    "nazwisko": "Szulc",
+    "pokoj": "B4-24",
+    "tel": "61 829-5352",
+    "mail": "tszulc@amu.edu.pl",
+    "id": "157"
+}, {
+    "stopien": "dr",
+    "imie": "Radosław",
+    "nazwisko": "Szwedek",
+    "pokoj": "B1-24",
+    "tel": "61 829-5469",
+    "mail": "szwedek@amu.edu.pl",
+    "id": "158"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Bogdan",
+    "nazwisko": "Szydło",
+    "pokoj": "B1-34",
+    "tel": "61 829-5502",
+    "mail": "bszydlo@amu.edu.pl",
+    "id": "159"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Jerzy",
+    "nazwisko": "Szymański",
+    "pokoj": "B3-32",
+    "tel": "61 829-5397",
+    "mail": "jesz@amu.edu.pl",
+    "www": "http://www.staff.amu.edu.pl/~jesz/",
+    "id": "160"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Piotr",
+    "nazwisko": "Śniady",
+    "pokoj": "B4-13",
+    "tel": "61 829-5342",
+    "mail": "piotr.sniady@amu.edu.pl",
+    "www": "http://psniady.faculty.wmi.amu.edu.pl",
+    "id": "161"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Kazimierz",
+    "nazwisko": "Świrydowicz",
+    "pokoj": "B2-22",
+    "tel": "61 829-5448",
+    "mail": "swirydow@amu.edu.pl",
+    "id": "162"
+}, {
+    "stopien": "mgr",
+    "imie": "Grzegorz",
+    "nazwisko": "Taberski",
+    "pokoj": "B3-19",
+    "tel": "61 829-5476",
+    "mail": "gtab@amu.edu.pl",
+    "id": "163"
+}, {
+    "stopien": "mgr",
+    "imie": "Justyna",
+    "nazwisko": "Tabor",
+    "pokoj": "B0-10",
+    "tel": "61 829-5511",
+    "mail": "tabor@amu.edu.pl",
+    "id": "164"
+}, {
+    "stopien": "mgr",
+    "imie": "Katarzyna",
+    "nazwisko": "Taczała",
+    "pokoj": "B0-10",
+    "tel": "61 829-5511",
+    "mail": "katarzyna.taczala@amu.edu.pl",
+    "id": "165"
+}, {
+    "stopien": "mgr",
+    "imie": "Sandeep",
+    "nazwisko": "Tayal",
+    "pokoj": "B3-19",
+    "tel": "61 829-5385",
+    "mail": "sandeeptayal@amu.edu.pl",
+    "id": "166"
+}, {
+    "stopien": "dr",
+    "imie": "Bernadeta",
+    "nazwisko": "Tomasz",
+    "pokoj": "B1-09",
+    "tel": "61 829-5463",
+    "mail": "betom@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~betom/",
+    "id": "167"
+}, {
+    "stopien": "dr",
+    "imie": "Maria",
+    "nazwisko": "Trybuła",
+    "pokoj": "B3-12",
+    "tel": "61 829-5365",
+    "mail": "mtrybula@amu.edu.pl",
+    "id": "168"
+}, {
+    "stopien": "mgr",
+    "imie": "Lidia",
+    "nazwisko": "Typańska",
+    "pokoj": "B1-12",
+    "tel": "61 829-5467",
+    "mail": "lidia.typanska@amu.edu.pl",
+    "id": "169"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Yoichi",
+    "nazwisko": "Uetake",
+    "pokoj": "",
+    "mail": "uetake@amu.edu.pl",
+    "id": "170"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Ryszard",
+    "nazwisko": "Urbański",
+    "pokoj": "B3-07",
+    "tel": "61 829-5374",
+    "mail": "rich@amu.edu.pl",
+    "www": "http://octd.wmi.amu.edu.pl/pl/Ryszard_Urba?ski",
+    "id": "171"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Zygmunt",
+    "nazwisko": "Vetulani",
+    "pokoj": "B3-16",
+    "tel": "61 829-5380",
+    "mail": "vetulani@amu.edu.pl",
+    "www": "http://www.amu.edu.pl/~vetulani",
+    "id": "172"
+}, {
+    "stopien": "dr",
+    "imie": "Jan",
+    "nazwisko": "Wachowiak",
+    "pokoj": "B4-11",
+    "tel": "61 829-5340",
+    "mail": "jwachow@amu.edu.pl",
+    "id": "173"
+}, {
+    "stopien": "prof. dr hab. inż.",
+    "imie": "Aleksander",
+    "nazwisko": "Waszak",
+    "pokoj": "B4-22",
+    "tel": "61 829-5350",
+    "mail": "alwa@amu.edu.pl",
+    "id": "174"
+}, {
+    "stopien": "mgr",
+    "imie": "Łukasz",
+    "nazwisko": "Waszak",
+    "pokoj": "B4-08",
+    "tel": "61 829-5337",
+    "mail": "lwaszak@amu.edu.pl",
+    "id": "175"
+}, {
+    "stopien": "dr",
+    "imie": "Wojciech",
+    "nazwisko": "Wawrzyniak",
+    "pokoj": "B2-12",
+    "tel": "61 829-5345",
+    "mail": "wwawrzy@amu.edu.pl",
+    "id": "176"
+}, {
+    "stopien": "dr",
+    "imie": "Tadeusz",
+    "nazwisko": "Werbiński",
+    "pokoj": "B2-41",
+    "tel": "61 829-5420",
+    "mail": "wer@amu.edu.pl",
+    "id": "177"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Kazimierz",
+    "nazwisko": "Wiertelak",
+    "pokoj": "B2-43",
+    "tel": "61 829-5424",
+    "mail": "wiertela@amu.edu.pl",
+    "id": "178"
+}, {
+    "stopien": "dr",
+    "imie": "Krzysztof",
+    "nazwisko": "Winnicki",
+    "pokoj": "B1-04",
+    "tel": "61 829-5456",
+    "mail": "krzysztof.winnicki@amu.edu.pl",
+    "id": "179"
+}, {
+    "stopien": "prof. UAM dr hab.",
+    "imie": "Marek",
+    "nazwisko": "Wisła",
+    "pokoj": "B3-05",
+    "tel": "61 829-5357",
+    "mail": "mwisla@amu.edu.pl",
+    "id": "180"
+}, {
+    "stopien": "mgr",
+    "imie": "Maria",
+    "nazwisko": "Wisła",
+    "pokoj": "A1-30",
+    "tel": "61 829-5310",
+    "mail": "majka@amu.edu.pl",
+    "id": "181"
+}, {
+    "stopien": "mgr",
+    "imie": "Łukasz",
+    "nazwisko": "Witkowski",
+    "pokoj": "B4-04",
+    "tel": "61 829-5331",
+    "mail": "lukwit@amu.edu.pl",
+    "id": "182"
+}, {
+    "stopien": "dr",
+    "imie": "Marcin",
+    "nazwisko": "Witkowski",
+    "pokoj": "B4-04",
+    "tel": "61 829-5331",
+    "mail": "mw@amu.edu.pl",
+    "id": "183"
+}, {
+    "stopien": "dr",
+    "imie": "Rafał",
+    "nazwisko": "Witkowski",
+    "pokoj": "B2-11",
+    "tel": "61 829-5412",
+    "mail": "rmiw@amu.edu.pl",
+    "id": "184"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Witold",
+    "nazwisko": "Wnuk",
+    "pokoj": "B3-43",
+    "tel": "61 829-5372",
+    "mail": "wnukwit@amu.edu.pl",
+    "id": "185"
+}, {
+    "stopien": "dr",
+    "imie": "Dominika",
+    "nazwisko": "Wojtera-Tyrakowska",
+    "pokoj": "B4-26",
+    "tel": "61 829-5482",
+    "mail": "dwt@amu.edu.pl",
+    "id": "186"
+}, {
+    "stopien": "",
+    "imie": "Jagienka",
+    "nazwisko": "Wojtkowiak-Jindra",
+    "pokoj": "B0-16",
+    "tel": "61 829-5544",
+    "mail": "jagnaj@amu.edu.pl",
+    "id": "187"
+}, {
+    "stopien": "dr hab.",
+    "imie": "Waldemar",
+    "nazwisko": "Wołyński",
+    "pokoj": "B4-12",
+    "tel": "61 829-5341",
+    "mail": "wolynski@amu.edu.pl",
+    "id": "188"
+}, {
+    "stopien": "mgr",
+    "imie": "Andrzej",
+    "nazwisko": "Wójtowicz",
+    "pokoj": "B4-18",
+    "tel": "61 829-5367",
+    "mail": "andre@amu.edu.pl",
+    "www": "http://andre.faculty.wmi.amu.edu.pl",
+    "id": "189"
+}, {
+    "stopien": "prof. dr hab.",
+    "imie": "Maciej",
+    "nazwisko": "Wygralak",
+    "pokoj": "B4-25",
+    "tel": "61 829-5353",
+    "mail": "wygralak@amu.edu.pl",
+    "id": "190"
+}, {
+    "stopien": "mgr",
+    "imie": "Bartosz",
+    "nazwisko": "Zaleski",
+    "pokoj": "B3-37",
+    "tel": "61 829-5345",
+    "mail": "balzak@amu.edu.pl",
+    "id": "191"
+}, {
+    "stopien": "mgr",
+    "imie": "Tomasz",
+    "nazwisko": "Zaworski",
+    "pokoj": "A1-26",
+    "tel": "61 829-319",
+    "mail": "zawoor@wmi.amu.edu.pl",
+    "id": "192"
+}, {
+    "stopien": "mgr",
+    "imie": "Marcin",
+    "nazwisko": "Żurowski",
+    "pokoj": "B4-05",
+    "tel": "61 829-5333",
+    "mail": "marcin.zurowski@amu.edu.pl",
+    "id": "193"
+}, {
+    "stopien": "mgr",
+    "imie": "Patryk",
+    "nazwisko": "Żywica",
+    "pokoj": "B2-13",
+    "tel": "61 829-5417",
+    "mail": "bikol@amu.edu.pl",
+    "id": "194"
+}]

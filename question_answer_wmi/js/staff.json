@@ -1,0 +1,1211 @@
+[
+    {
+        "stopien": "dr",
+        "pracownik": "Magdalena Adamczak",
+        "pokoj": "B1-05",
+        "tel": "61 829-5459",
+        "mail": "magdam@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Sylwia Antoniuk",
+        "pokoj": "B3-25",
+        "tel": "61 829-5511",
+        "mail": "antoniuk@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Grzegorz Banaszak",
+        "pokoj": "B1-36",
+        "tel": "61 829-5504",
+        "mail": "banaszak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Stefan Barańczuk",
+        "pokoj": "B1-17",
+        "tel": "61 829-5485",
+        "mail": "stefbar@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~stefbar"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Tadeusz Batóg",
+        "pokoj": "B2-31",
+        "tel": "61 829-5446",
+        "mail": "tabat@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Małgorzata Bednarska-Bzdęga",
+        "pokoj": "B3-33",
+        "tel": "61 829-5389",
+        "mail": "mbed@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~mbed"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Joanna Berlińska",
+        "pokoj": "B4-05",
+        "tel": "61 829-5333",
+        "mail": "berlinsk@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~berlinsk/"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Dorota Blinkiewicz",
+        "pokoj": "B1-12",
+        "tel": "61 829-5467",
+        "mail": "dorota.blinkiewicz@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Zbigniew Błaszczyk",
+        "pokoj": "B1-11",
+        "tel": "61 829-5465",
+        "mail": "blaszczyk@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Izabela Bondecka-Krzykowska",
+        "pokoj": "B2-33",
+        "tel": "61 829-5449",
+        "mail": "izab@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marcin Borkowski",
+        "pokoj": "B3-46",
+        "tel": "61 829-5375",
+        "mail": "mbork@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Marcin_Borkowski"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Monika Budzyńska",
+        "pokoj": "A1-1,2",
+        "tel": "61 829-5303",
+        "mail": "monika.budzynska@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Daria Bugajewska",
+        "pokoj": "B3-45",
+        "tel": "61 829-5359",
+        "mail": "dbw@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Daria_Bugajewska"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Dariusz Bugajewski",
+        "pokoj": "B3-06",
+        "tel": "61 829-5358",
+        "mail": "ddbb@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Dariusz_Bugajewski"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Adam Burchardt",
+        "pokoj": "B1-22",
+        "tel": "61 829-5491",
+        "mail": "adam.burchardt@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Wojciech Buszkowski",
+        "pokoj": "B2-29",
+        "tel": "61 829-5444",
+        "mail": "buszko@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~buszko"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Rafał Bystrzycki",
+        "pokoj": "B0-10",
+        "tel": "61 829-5511",
+        "mail": "rafbys@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Bartłomiej Bzdęga",
+        "pokoj": "B1-15",
+        "tel": "61 829-5354",
+        "mail": "exul@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Tadeusz Chawziuk",
+        "pokoj": "B3-13",
+        "tel": "61 829-5367",
+        "mail": "tc21982@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Tomasz Ciaś",
+        "pokoj": "B1-47",
+        "tel": "61 829-5480",
+        "mail": "tcias@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Mieczysław Cichoń",
+        "pokoj": "B4-19",
+        "tel": "61 829-5347",
+        "mail": "mcichon@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~mcichon"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Roman Czarnowski",
+        "pokoj": "B2-41",
+        "tel": "61 829-5420",
+        "mail": "rczar@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Mateusz Dąbrowicz",
+        "pokoj": "B1-45",
+        "tel": "61 829-5477",
+        "mail": "mateusz.dabrowicz@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Elżbieta Dąbrowska-Kąkol",
+        "pokoj": "A1-4",
+        "tel": "61 829-5305",
+        "mail": "edab@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Maciej Dołęga"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Ryszard Doman",
+        "pokoj": "B1-32",
+        "tel": "61 829-5500",
+        "mail": "rydoman@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Paweł Domański",
+        "pokoj": "B3-40",
+        "tel": "61 829-5369",
+        "mail": "domanski@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~domanski"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Lech Drewnowski",
+        "pokoj": "B3-41",
+        "tel": "61 829-5370",
+        "mail": "drewlech@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Aldona Dutkiewicz",
+        "pokoj": "B2-05",
+        "tel": "61 829-5406",
+        "mail": "szukala@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Tomasz Dwojak",
+        "pokoj": "B2-36",
+        "tel": "61 829-5452",
+        "mail": "t.dwojak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Krzysztof Dyczkowski",
+        "pokoj": "B4-17",
+        "tel": "61 829-5402",
+        "mail": "chris@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Paweł Foralewski",
+        "pokoj": "B3-47",
+        "tel": "61 829-5377",
+        "mail": "katon@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Maria Gajda",
+        "pokoj": "A1-1,2",
+        "tel": "61 829-5301",
+        "mail": "maria.gajda@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Wojciech Gajda",
+        "pokoj": "B1-35",
+        "tel": "61 829-5503",
+        "mail": "gajda@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Magdalena Gałązkiewicz",
+        "pokoj": "A1-31B",
+        "tel": "61 829-5311",
+        "mail": "magdag@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Andrzej Gaszak",
+        "pokoj": "B1-33",
+        "tel": "61 829-5501",
+        "mail": "agaszak@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Stanisław Gawiejnowicz",
+        "pokoj": "B4-06",
+        "tel": "61 829-5334",
+        "mail": "stgawiej@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~stgawiej/"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Zdzisława  Gierszal",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail" : "zgiersza@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Karol Gierszewski ",
+        "pokoj": "B2-07",
+        "tel": "61 829-5419",
+        "mail": "kgiersz@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marcin Gogolewski",
+        "pokoj": "B0-15",
+        "tel": "61 829-5400",
+        "mail": "marcing@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Anna Golińska",
+        "pokoj": "B1-47",
+        "tel": "61 829-5480",
+        "mail": "czyzak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Michał Goliński",
+        "pokoj": "B3-10",
+        "tel": "61 829-5362",
+        "mail": "golinski@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Tomasz Górecki",
+        "pokoj": "B4-11",
+        "tel": "61 829-5340",
+        "mail": "tomasz.gorecki@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~drizzt"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Krzysztof Górnisiewicz",
+        "pokoj": "B1-16",
+        "tel": "61 829-5483",
+        "mail": "krisgorn@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Jolanta Grala-Michalak",
+        "pokoj": "B4-14",
+        "tel": "61 829-5343",
+        "mail": "grala@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Filip Graliński",
+        "pokoj": "B2-34",
+        "tel": "61 829-5437",
+        "mail": "filipg@amu.edu.pl",
+        "www": "http://amu.edu.pl/~filipg"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Roman Grundkiewicz",
+        "pokoj": "B2-36",
+        "tel": "61 829-5452",
+        "mail": "romang@amu.edu.pl"
+    }, {
+        "stopien": "lic.",
+        "pracownik": "Magdalena Grygiel",
+        "pokoj": "A1-27",
+        "tel": "61 829-5548",
+        "mail": "grygielm@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Maciej Grześkowiak",
+        "pokoj": "B2-06",
+        "tel": "61 829-5422",
+        "mail": "maciejg@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Jerzy Grzybowski",
+        "pokoj": "B3-45",
+        "tel": "61 829-5359",
+        "mail": "jgrz@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Jerzy_Grzybowski"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Michał Hanćkowiak",
+        "pokoj": "B3-34",
+        "tel": "61 829-5388",
+        "mail": "mhanckow@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Mateusz Hromada",
+        "pokoj": "A1-26",
+        "tel": "61 829-5319",
+        "mail": "mhromada@wmi.amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Henryk Hudzik",
+        "pokoj": "B3-04",
+        "tel": "61 829-5356",
+        "mail": "hudzik@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Maria Hudzik",
+        "pokoj": "B0-16",
+        "tel": "61 829-5547",
+        "mail": "mariak@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Eliza Jackowska",
+        "pokoj": "B0-10",
+        "tel": "61 829-5511",
+        "mail": "elijac@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Danuta Janicka",
+        "pokoj": "A1-29",
+        "tel": "61 829-5321",
+        "mail": "janicka@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Magdalena Jaroszewska",
+        "pokoj": "B1-43",
+        "tel": "61 829-5474",
+        "mail": "magjar@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Michał Jasiczak",
+        "pokoj": "B2-42",
+        "tel": "61 829-5423",
+        "mail": "mjk@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Krzysztof Jassem",
+        "pokoj": "B2-25",
+        "tel": "61 829-5442",
+        "mail": "jassem@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Jerzy Jaworski",
+        "pokoj": "B3-22",
+        "tel": "61 829-5396",
+        "mail": "jaworski@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~jaworski"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Rafał Jaworski",
+        "pokoj": "B2-35",
+        "tel": "61 829-5450",
+        "mail": "rjawor@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~rjawor/"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marcin Junczys-Dowmunt",
+        "pokoj": "B2-34",
+        "tel": "61 829-5437",
+        "mail": "junczys@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~junczys"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Edyta Juskowiak",
+        "pokoj": "B1-04",
+        "tel": "61 829-5457",
+        "mail": "edyta@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Jan Kaczmarek",
+        "pokoj": "B2-37",
+        "tel": "61 829-5453",
+        "mail": "jankaczm@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Radosław Kaczmarek",
+        "pokoj": "B3-13",
+        "tel": "61 829-5366",
+        "mail": "radekk@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Jerzy Kaczorowski",
+        "pokoj": "B2-45",
+        "tel": "61 829-5426",
+        "mail": "kjerzy@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Maciej Kalkowski",
+        "pokoj": "B2-23",
+        "tel": "61 829-5367",
+        "mail": "kalkos@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~kalkos/"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marek Kaluba",
+        "pokoj": "B1-30",
+        "tel": "61 829-5497",
+        "mail": "kalmar@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Michael Kaminski",
+        "pokoj": "B1-39",
+        "tel": "61 829-5470",
+        "mail": "kaminski@cs.technion.ac.il"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Maciej Kandulski",
+        "pokoj": "B2-30",
+        "tel": "61 829-5445",
+        "mail": "mkandu@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~mkandu"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Michał Karoński",
+        "pokoj": "B3-24",
+        "tel": "61 829-5393",
+        "mail": "karonski@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~karonski"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Henryk Kasprzak",
+        "pokoj": "B1-46",
+        "tel": "61 829-5479",
+        "mail": "henryk.kasprzak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Piotr Kasprzak",
+        "pokoj": "B3-36",
+        "tel": "61 829-5401",
+        "mail": "kasp@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Piotr_Kasprzak"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Krystyna Katulska",
+        "pokoj": "B4-10",
+        "tel": "61 829-5339",
+        "mail": "krakat@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Jerzy Kąkol",
+        "pokoj": "B3-42",
+        "tel": "61 829-5371",
+        "mail": "kakol@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Marta Kłobukowska",
+        "pokoj": "A1-27",
+        "tel": "61 829-5548",
+        "mail": "mklobukowska@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Danuta Kmiecik",
+        "pokoj": "B2-46",
+        "tel": "61 829-5427",
+        "mail": "dkmiecik@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Agnieszka  Kmiecik-Wojnicz",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail": "adziak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Mirosława Kołowska-Gawiejnowicz",
+        "pokoj": "B2-24",
+        "tel": "61 829-5441",
+        "mail": "mkolowsk@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~mkolowsk/welcome.html"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Joanna Kończak",
+        "pokoj": "B3-48",
+        "tel": "61 829-5378",
+        "mail": "jkonczak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Teresa Kończal",
+        "pokoj": "B1-46",
+        "tel": "61 829-5478",
+        "mail": "tkonczal@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Maria Korcz",
+        "pokoj": "B1-06",
+        "tel": "61 829-5460",
+        "mail": "mkorcz@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Izabela Krupińska",
+        "pokoj": "B3-29",
+        "tel": "61 829-5512",
+        "mail": "izafil@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Mirosław Krzyśko",
+        "pokoj": "B4-09",
+        "tel": "61 829-5338",
+        "mail": "mkrzysko@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Krzysztof Krzywdziński",
+        "pokoj": "B2-23",
+        "tel": "61 829-5367",
+        "mail": "kkrzywd@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Ireneusz Kubiaczyk",
+        "pokoj": "B4-21",
+        "tel": "61 829-5349",
+        "mail": "kuba@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Tomasz Kubiak",
+        "pokoj": "B1-41",
+        "tel": "61 829-5472",
+        "mail": "tkubiak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marek Kubis",
+        "pokoj": "B3-19",
+        "tel": "61 829-5385",
+        "mail": "mkubis@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Wiesław Kurc",
+        "pokoj": "B2-16",
+        "tel": "61 829-5433",
+        "mail": "wkurc@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Tomasz Łuczak",
+        "pokoj": "B3-30",
+        "tel": "61 829-5394",
+        "mail": "tomasz@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~tomasz/"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Adrian Łydka",
+        "pokoj": "B2-44",
+        "tel": "61 829-5425",
+        "mail": "adrianl@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Stanisław Machowski",
+        "pokoj": "B1-03",
+        "tel": "61 829-5455",
+        "mail": "machowsk@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Aleksandra Maciejewska",
+        "pokoj": "B1-46",
+        "tel": "61 829-5479",
+        "mail": "alma@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Agnieszka Małecka",
+        "pokoj": "B1-10",
+        "tel": "61 829-5464",
+        "mail": "awoj@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Jacek Marciniak",
+        "pokoj": "B3-17",
+        "tel": "61 829-5381",
+        "mail": "jacekmar@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Wacław Marzantowicz",
+        "pokoj": "B1-31",
+        "tel": "61 829-5499",
+        "mail": "marzan@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~marzan"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Mieczysław Mastyło",
+        "pokoj": "B4-23",
+        "tel": "61 829-5351",
+        "mail": "mastylo@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Artur Michalak",
+        "pokoj": "B3-11",
+        "tel": "61 829-5364",
+        "mail": "michalak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Katarzyna Mieczkowska-Chwedyna",
+        "pokoj": "B3-37",
+        "tel": "61 829-5345",
+        "mail": "kaska@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Janusz Migda",
+        "pokoj": "B2-04",
+        "tel": "61 829-5404",
+        "mail": "migda@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Paweł Mleczko",
+        "pokoj": "B1-23",
+        "tel": "61 829-5492",
+        "mail": "pml@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~pml"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Roman Murawski",
+        "pokoj": "B2-32",
+        "tel": "61 829-5447",
+        "mail": "rmur@amu.edu.pl",
+        "www": "http://www.logika.amu.edu.pl/murawski_dane.php"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Julian Musielak",
+        "pokoj": "B1-40",
+        "tel": "61 829-5471",
+        "mail": "musielak@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Renata Myl",
+        "pokoj": "A1-3",
+        "tel": "61 829-5306",
+        "mail": "jonatan@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Bartosz Naskręcki",
+        "pokoj": "B1-15",
+        "tel": "61 829-5354",
+        "mail": "bartnas@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Adam Nawrocki",
+        "pokoj": "B3-36",
+        "tel": "61 829-5401",
+        "mail": "an20468@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Marek Nawrocki",
+        "pokoj": "B3-44",
+        "tel": "61 829-5373",
+        "mail": "nawrocki@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~nawrocki"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Teresa Nowak",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail": "tenowa@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Edyta Nowińska",
+        "pokoj": "B1-44",
+        "tel": "61 829-5475",
+        "mail": "nowinska@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Wojciech Obarski",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail": "obarski@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Tomasz Obrębski",
+        "pokoj": "B3-18",
+        "tel": "61 829-5382",
+        "mail": "obrebski@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Magdalena Pakulska",
+        "pokoj": "A1-31",
+        "tel": "61 829-5308",
+        "mail": "pakulska@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Zbigniew Palka",
+        "pokoj": "B4-07",
+        "tel": "61 829-5335",
+        "mail": "palka@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~palka"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Wojciech Pałubicki",
+        "pokoj": "B4-18",
+        "tel": "61 829-5345",
+        "mail": "wp06@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Agata Panfil",
+        "pokoj": "B3-48",
+        "tel": "61 829-5417",
+        "mail": "kakola@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Łukasz Pańkowski",
+        "pokoj": "B2-07",
+        "tel": "61 829-5407",
+        "mail": "lpan@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Krzysztof Pawałowski",
+        "pokoj": "B1-21",
+        "tel": "61 829-5490",
+        "mail": "kpa@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~kpa"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Olga Pawlak",
+        "pokoj": "A1-1,2",
+        "tel": "61 829-5302",
+        "mail": "olapa@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Tomasz Piłka",
+        "pokoj": "A1-05",
+        "tel": "61 829-5314",
+        "mail": "pilka@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Krzysztof Piszczek",
+        "pokoj": "B3-10",
+        "tel": "61 829-5362",
+        "mail": "kpk@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Piotr Płuciennik",
+        "pokoj": "B1-28",
+        "tel": "61 829-5495",
+        "mail": "pplucien@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Joanna Polcyn-Lewandowska",
+        "pokoj": "B3-35",
+        "tel": "61 829-5398",
+        "mail": "joaska@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~joaska"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Wojciech Politarczyk",
+        "pokoj": "B1-30",
+        "tel": "61 829-5477",
+        "mail": "politarw@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Maciej Prill",
+        "pokoj": "A1-26",
+        "tel": "61 829-5319",
+        "mail": "mprill@wmi.amu.edu.pl",
+        "www": "http://eduwiki.wmi.amu.edu.pl/mprill"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Olawa Promińska",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail": "olawa@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Adam Przestacki",
+        "pokoj": "B2-12",
+        "tel": "61 829-5415",
+        "mail": "adamp@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Hubert Przybycień",
+        "pokoj": "B3-46",
+        "tel": "61 829-5376",
+        "mail": "hubert@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Hubert_Przybycień"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Bartłomiej Przybylski",
+        "pokoj": "B4-04",
+        "tel": "61 829-5330",
+      "mail": "bap@amu.edu.pl",
+        "www": "http://bap.faculty.wmi.amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Jan Pulikowski",
+        "pokoj": "B1-33",
+        "tel": "61 829-5501",
+        "mail": "pulik@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Paulina Pych-Taberska",
+        "pokoj": "B1-23",
+        "tel": "61 829-5492",
+        "mail": "ppych@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Maciej Radziejewski",
+        "pokoj": "B2-10",
+        "tel": "61 829-5411",
+        "mail": "maciejr@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~maciejr"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Michał Ren",
+        "pokoj": "B0-15",
+        "tel": "61 829-5430",
+        "mail": "renmich@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Anna Ren-Kurc",
+        "pokoj": "",
+        "mail": "renkurc@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Andrzej Ruciński",
+        "pokoj": "B3-23",
+        "tel": "61 829-5391",
+        "mail": "rucinski@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~rucinski"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Jerzy Rutkowski",
+        "pokoj": "B2-40",
+        "tel": "61 829-5419",
+        "mail": "rutjerzy@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~rutjerzy"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Katarzyna Rybarczyk-Krzywdzińska",
+        "pokoj": "B3-35",
+        "tel": "61 829-5398",
+        "mail": "kryba@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~kryba"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Michał Rzeczkowski",
+        "pokoj": "B1-29",
+        "tel": "61 829-5496",
+        "mail": "rzeczkow@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Piotr Rzonsowski",
+        "pokoj": "",
+        "mail": "rzonsol@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Jędrzej Sadowski",
+        "pokoj": "",
+        "mail": "jeski@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Tomasz Schoen",
+        "pokoj": "B3-31",
+        "tel": "61 829-5395",
+        "mail": "schoen@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~schoen"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Ewa Siekierska",
+        "pokoj": "biblioteka",
+        "tel": "61 829-5522",
+        "mail": "ewaantteledu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Janina Sierocka",
+        "pokoj": "B1-03",
+        "tel": "61 829-5455",
+        "mail": "jsierock@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Aneta Sikorska-Nowak",
+        "pokoj": "B4-20",
+        "tel": "61 829-5348",
+        "mail": "anetas@amu.edu.pl"
+    }, {
+        "stopien": "lic.",
+        "pracownik": "Elżbieta Skrzypczak",
+        "pokoj": "A1-7",
+        "tel": "61 829-5309",
+        "mail": "epskrzyp@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Leszek Skrzypczak",
+        "pokoj": "B1-42",
+        "tel": "61 829-5473",
+        "mail": "lskrzyp@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~lskrzyp/Leszek-e.html.en"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Łukasz Smaga",
+        "pokoj": "B4-08",
+        "tel": "61 829-5336",
+        "mail": "ls@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~ls"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Andrzej Sołtysiak",
+        "pokoj": "B2-48",
+        "tel": "61 829-5429",
+        "mail": "asoltys@amu.edu.pl"
+    }, {
+        "stopien": "dr inż.",
+        "pracownik": "Anna Stachowiak",
+        "pokoj": "B4-27",
+        "tel": "61 829-5381",
+        "mail": "aniap@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Magdalena Stachowiak",
+        "pokoj": "A1-6",
+        "tel": "61 829-5316",
+        "mail": "magstach@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Bartosz Staniów",
+        "pokoj": "B1-29",
+        "tel": "61 829-5496",
+        "mail": "bartsta@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Maria Staszków",
+        "pokoj": "A1-3",
+        "tel": "61 829-5306",
+        "mail": "staszkow@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Stanisław Stoiński",
+        "pokoj": "B1-39",
+        "tel": "61 829-5470",
+        "mail": "stoi@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Tomasz Stroiński",
+        "pokoj": "B1-45",
+        "tel": "61 829-5477",
+        "mail": "tomasz.stroinski@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Joanna Stróżyk",
+        "pokoj": "B1-05",
+        "tel": "61 829-5480",
+        "mail": "joanna.strozyk@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Cezary Suwalski",
+        "pokoj": "B2-17",
+        "tel": "61 829-5432",
+        "mail": "suwalski@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Bogumił Szmańda",
+        "pokoj": "B2-18",
+        "tel": "61 829-5513",
+        "mail": "adm-wmi.amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Stanisław Szufla",
+        "pokoj": "B2-47",
+        "tel": "61 829-5428",
+        "mail": "szufmat@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Tomasz Szulc",
+        "pokoj": "B4-24",
+        "tel": "61 829-5352",
+        "mail": "tszulc@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Radosław Szwedek",
+        "pokoj": "B1-24",
+        "tel": "61 829-5469",
+        "mail": "szwedek@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Bogdan Szydło",
+        "pokoj": "B1-34",
+        "tel": "61 829-5502",
+        "mail": "bszydlo@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Jerzy Szymański",
+        "pokoj": "B3-32",
+        "tel": "61 829-5397",
+        "mail": "jesz@amu.edu.pl",
+        "www": "http://www.staff.amu.edu.pl/~jesz/"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Piotr Śniady",
+        "pokoj": "B4-13",
+        "tel": "61 829-5342",
+        "mail": "piotr.sniady@amu.edu.pl",
+        "www": "http://psniady.faculty.wmi.amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Kazimierz Świrydowicz",
+        "pokoj": "B2-22",
+        "tel": "61 829-5448",
+        "mail": "swirydow@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Grzegorz Taberski",
+        "pokoj": "B3-19",
+        "tel": "61 829-5476",
+        "mail": "gtab@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Justyna Tabor",
+        "pokoj": "B0-10",
+        "tel": "61 829-5511",
+        "mail": "tabor@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Katarzyna Taczała",
+        "pokoj": "B0-10",
+        "tel": "61 829-5511",
+        "mail": "katarzyna.taczala@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Sandeep Tayal",
+        "pokoj": "B3-19",
+        "tel": "61 829-5385",
+        "mail": "sandeeptayal@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Bernadeta Tomasz",
+        "pokoj": "B1-09",
+        "tel": "61 829-5463",
+        "mail": "betom@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~betom/"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Maria Trybuła",
+        "pokoj": "B3-12",
+        "tel": "61 829-5365",
+        "mail": "mtrybula@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Lidia Typańska",
+        "pokoj": "B1-12",
+        "tel": "61 829-5467",
+        "mail": "lidia.typanska@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Yoichi Uetake",
+        "pokoj": "",
+        "mail": "uetake@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Ryszard Urbański",
+        "pokoj": "B3-07",
+        "tel": "61 829-5374",
+        "mail": "rich@amu.edu.pl",
+        "www": "http://octd.wmi.amu.edu.pl/pl/Ryszard_Urba?ski"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Zygmunt Vetulani",
+        "pokoj": "B3-16",
+        "tel": "61 829-5380",
+        "mail": "vetulani@amu.edu.pl",
+        "www": "http://www.amu.edu.pl/~vetulani"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Jan Wachowiak",
+        "pokoj": "B4-11",
+        "tel": "61 829-5340",
+        "mail": "jwachow@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab. inż.",
+        "pracownik": "Aleksander Waszak",
+        "pokoj": "B4-22",
+        "tel": "61 829-5350",
+        "mail": "alwa@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Łukasz Waszak",
+        "pokoj": "B4-08",
+        "tel": "61 829-5337",
+        "mail": "lwaszak@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Wojciech Wawrzyniak",
+        "pokoj": "B2-12",
+        "tel": "61 829-5345",
+        "mail": "wwawrzy@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Tadeusz Werbiński",
+        "pokoj": "B2-41",
+        "tel": "61 829-5420",
+        "mail": "wer@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Kazimierz Wiertelak",
+        "pokoj": "B2-43",
+        "tel": "61 829-5424",
+        "mail": "wiertela@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Krzysztof Winnicki",
+        "pokoj": "B1-04",
+        "tel": "61 829-5456",
+        "mail": "krzysztof.winnicki@amu.edu.pl"
+    }, {
+        "stopien": "prof. UAM dr hab.",
+        "pracownik": "Marek Wisła",
+        "pokoj": "B3-05",
+        "tel": "61 829-5357",
+        "mail": "mwisla@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Maria Wisła",
+        "pokoj": "A1-30",
+        "tel": "61 829-5310",
+        "mail": "majka@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Łukasz Witkowski",
+        "pokoj": "B4-04",
+        "tel": "61 829-5331",
+        "mail": "lukwit@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Marcin Witkowski",
+        "pokoj": "B4-04",
+        "tel": "61 829-5331",
+        "mail": "mw@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Rafał Witkowski",
+        "pokoj": "B2-11",
+        "tel": "61 829-5412",
+        "mail": "rmiw@amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Witold Wnuk",
+        "pokoj": "B3-43",
+        "tel": "61 829-5372",
+        "mail": "wnukwit@amu.edu.pl"
+    }, {
+        "stopien": "dr",
+        "pracownik": "Dominika Wojtera-Tyrakowska",
+        "pokoj": "B4-26",
+        "tel": "61 829-5482",
+        "mail": "dwt@amu.edu.pl"
+    }, {
+        "stopien": "",
+        "pracownik": "Jagienka Wojtkowiak-Jindra",
+        "pokoj": "B0-16",
+        "tel": "61 829-5544",
+        "mail": "jagnaj@amu.edu.pl"
+    }, {
+        "stopien": "dr hab.",
+        "pracownik": "Waldemar Wołyński",
+        "pokoj": "B4-12",
+        "tel": "61 829-5341",
+        "mail": "wolynski@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Andrzej Wójtowicz",
+        "pokoj": "B4-18",
+        "tel": "61 829-5367",
+        "mail": "andre@amu.edu.pl",
+        "www": "http://andre.faculty.wmi.amu.edu.pl"
+    }, {
+        "stopien": "prof. dr hab.",
+        "pracownik": "Maciej Wygralak",
+        "pokoj": "B4-25",
+        "tel": "61 829-5353",
+        "mail": "wygralak@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Bartosz Zaleski",
+        "pokoj": "B3-37",
+        "tel": "61 829-5345",
+        "mail": "balzak@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Tomasz Zaworski",
+        "pokoj": "A1-26",
+        "tel": "61 829-319",
+        "mail": "zawoor@wmi.amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Marcin Żurowski",
+        "pokoj": "B4-05",
+        "tel": "61 829-5333",
+        "mail": "marcin.zurowski@amu.edu.pl"
+    }, {
+        "stopien": "mgr",
+        "pracownik": "Patryk Żywica",
+        "pokoj": "B2-13",
+        "tel": "61 829-5417",
+        "mail": "bikol@amu.edu.pl"
+    }
+]
